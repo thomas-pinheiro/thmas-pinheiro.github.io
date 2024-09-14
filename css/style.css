@@ -1,0 +1,47 @@
+
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+    background-color: #f0f0f0;/*#dce0e6;*/
+}
+header {
+    background-color: #1a2a4f;
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+.data {
+    width: 80%;
+    margin: auto;
+    overflow: hidden;
+    padding: 20px;
+    background-color: white;
+    margin-top: 20px;
+    border-radius: 20px;
+}
+.profile-photo {
+    display: block;
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    object-fit: cover;
+    object-position: center;
+}
+.section-title {
+    margin-top: 20px;
+    color: #1a2a4f;
+}
+.contato a {
+    color: #508cbf;
+    text-decoration: none;
+}
+
+strong {
+    color: #1a2a4f;
+}
+
+li {
+    color: #1a2a4f;
+}
